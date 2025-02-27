@@ -1,6 +1,6 @@
 <center>
 
-![letsdocompatlevelz_title](src/main/resources/assets/letsdocompatlevelz/letsdocompatlevelz_title_wide.png)
+![letsdocompatlevelz_title](Gallery/letsdocompatlevelz_title_wide.png)
 
 this mod brings parity with several [lets do mods](https://modrinth.com/user/satisfyu) and [levelz](https://modrinth.com/mod/levelz)
 
