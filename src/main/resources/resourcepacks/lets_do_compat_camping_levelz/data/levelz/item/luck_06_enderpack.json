@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "luck",
+    "level": 6,
+    "item": "minecraft:custom_item",
+    "object": "camping:enderpack"
+}

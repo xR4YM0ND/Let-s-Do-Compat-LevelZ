@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "level": 3,
+    "block": [
+        "candlelight:sandstone_stove",
+        "candlelight:sandstone_kitchen_sink",
+        "candlelight:sandstone_counter"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "level": 17,
+    "block": [
+        "candlelight:quartz_stove",
+        "candlelight:quartz_kitchen_sink",
+        "candlelight:quartz_counter",
+        "candlelight:red_nether_bricks_stove",
+        "candlelight:red_nether_bricks_kitchen_sink",
+        "candlelight:red_nether_bricks_counter",
+        "candlelight:basalt_stove",
+        "candlelight:basalt_kitchen_sink",
+        "candlelight:basalt_counter"
+    ]
+}

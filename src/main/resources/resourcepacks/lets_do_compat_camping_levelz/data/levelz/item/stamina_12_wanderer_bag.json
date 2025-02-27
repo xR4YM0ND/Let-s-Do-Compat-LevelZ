@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "stamina",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "camping:wanderer_bag"
+}

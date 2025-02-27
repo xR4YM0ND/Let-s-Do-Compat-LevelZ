@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "level": 5,
+    "block": [
+        "bloomingnature:travertin",
+        "bloomingnature:travertin_slab",
+        "bloomingnature:travertin_stairs",
+        "bloomingnature:travertin_wall",
+        "bloomingnature:cobbled_travertin",
+        "bloomingnature:cobbled_travertin_slab",
+        "bloomingnature:cobbled_travertin_stairs",
+        "bloomingnature:cobbled_travertin_wall",
+        "bloomingnature:chiseled_travertin",
+        "bloomingnature:travertin_bricks",
+        "bloomingnature:travertin_brick_slab",
+        "bloomingnature:travertin_brick_stairs",
+        "bloomingnature:travertin_brick_wall",
+        "bloomingnature:cracked_travertin_bricks",
+        "bloomingnature:mossy_travertin_bricks",
+        "bloomingnature:mossy_travertin_brick_slab",
+        "bloomingnature:mossy_travertin_brick_stairs",
+        "bloomingnature:mossy_travertin_brick_wall",
+        "bloomingnature:mossy_cobbled_travertin",
+        "bloomingnature:mossy_cobbled_travertin_slab",
+        "bloomingnature:mossy_cobbled_travertin_stairs",
+        "bloomingnature:mossy_cobbled_travertin_wall",
+        "bloomingnature:mossy_chiseled_travertin",
+        "bloomingnature:mossy_travertin",
+        "bloomingnature:mossy_travertin_slab",
+        "bloomingnature:mossy_travertin_stairs",
+        "bloomingnature:mossy_travertin_wall"
+    ]
+}

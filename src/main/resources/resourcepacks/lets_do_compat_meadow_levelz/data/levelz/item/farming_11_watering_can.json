@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 11,
+    "item": "minecraft:custom_item",
+    "object": "meadow:watering_can"
+}

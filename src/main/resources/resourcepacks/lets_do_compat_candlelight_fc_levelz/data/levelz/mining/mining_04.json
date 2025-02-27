@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "level": 4,
+    "block": [
+        "candlelight:cobblestone_stove",
+        "candlelight:cobblestone_kitchen_sink",
+        "candlelight:cobblestone_counter",
+        "candlelight:stone_bricks_stove",
+        "candlelight:stone_bricks_kitchen_sink",
+        "candlelight:stone_bricks_counter",
+        "candlelight:deepslate_stove",
+        "candlelight:deepslate_kitchen_sink",
+        "candlelight:deepslate_counter",
+        "candlelight:granite_stove",
+        "candlelight:granite_kitchen_sink",
+        "candlelight:granite_counter"
+    ]
+}

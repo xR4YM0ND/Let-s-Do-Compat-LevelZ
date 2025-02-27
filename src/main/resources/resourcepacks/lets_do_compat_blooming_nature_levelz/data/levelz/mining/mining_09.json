@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "level": 9,
+    "block": [
+        "bloomingnature:laterit",
+        "bloomingnature:laterit_slab",
+        "bloomingnature:laterit_stairs",
+        "bloomingnature:laterit_wall",
+        "bloomingnature:cobbled_laterit",
+        "bloomingnature:cobbled_laterit_slab",
+        "bloomingnature:cobbled_laterit_stairs",
+        "bloomingnature:cobbled_laterit_wall",
+        "bloomingnature:chiseled_laterit",
+        "bloomingnature:laterit_bricks",
+        "bloomingnature:laterit_brick_slab",
+        "bloomingnature:laterit_brick_stairs",
+        "bloomingnature:laterit_brick_wall",
+        "bloomingnature:cracked_laterit_bricks",
+        "bloomingnature:mossy_laterit_bricks",
+        "bloomingnature:mossy_laterit_brick_slab",
+        "bloomingnature:mossy_laterit_brick_stairs",
+        "bloomingnature:mossy_laterit_brick_wall",
+        "bloomingnature:mossy_cobbled_laterit",
+        "bloomingnature:mossy_cobbled_laterit_slab",
+        "bloomingnature:mossy_cobbled_laterit_stairs",
+        "bloomingnature:mossy_cobbled_laterit_wall",
+        "bloomingnature:mossy_chiseled_laterit",
+        "bloomingnature:mossy_laterit_stone",
+        "bloomingnature:mossy_laterit_slab",
+        "bloomingnature:mossy_laterit_stairs",
+        "bloomingnature:mossy_laterit_wall"
+    ]
+}
