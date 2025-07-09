@@ -30,8 +30,8 @@ You can disable each compat in the `letsdocompatlevelz.json5` config file.
 *Compats only load if the mod is loaded & the config is set to true (default)*
 
 ## Credits
-<a href="https://discord.gg/2peBqWRwVp" target="_blank">
-<img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/WXdSYn4yHB" target="_blank">
+<img alt="Discord Fabricated Atelier" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/Let-s-Do-Compat-LevelZ/blob/1.20.1/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/NutritionZ?style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/Let-s-Do-Compat-LevelZ" target="_blank">
